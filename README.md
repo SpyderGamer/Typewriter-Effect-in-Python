@@ -10,4 +10,4 @@ Does your text ever look so boring in the console? Well, forget plain old text a
 https://user-images.githubusercontent.com/85440857/187943111-30dc2a3d-3074-4e7b-8cff-d8330bc8e37f.mp4
 
 # License ©
-This project is licensed under the MIT License. You may copy, modify or redistribute this code. Do anything you like with it! Read the [`LICENSE`](https://github.com/SpyderGamer/Typewriter-Effect-in-Python/blob/main/LICENSE) file for more info.
+This project is licensed under the **GPLv3**. You may copy, modify or redistribute this code. Do anything you like with it, go crazy man! Read the [`LICENSE`](https://github.com/SpyderGamer/Typewriter-Effect-in-Python/blob/main/LICENSE) file for more info.
